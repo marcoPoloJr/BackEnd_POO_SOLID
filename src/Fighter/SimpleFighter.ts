@@ -1,9 +1,8 @@
 export default interface SimpleFighter {
-    lifePoints: number;
-    strength:number;
+  lifePoints: number;
+  strength:number;
       
-    attack(enemy: SimpleFighter):void;
-    receiveDamage(attackPoints:number):number;
+  attack(enemy: SimpleFighter):void;
+  receiveDamage(attackPoints:number):number;
   
-  }
-  export type EnergyType = 'mana' | 'stamina';
+}
