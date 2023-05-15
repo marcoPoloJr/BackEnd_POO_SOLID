@@ -18,7 +18,7 @@ São aplicados os princípios da arquitetura SOLID e os princípios de POO em um
 - Node.js
 - Express
 - Docker
-- ySQL
+- MySQL
 
 ## Agradecimentos
 Agradeço à equipe da Trybe por fornecer um conteúdo de qualidade e a oportunidade de desenvolver este projeto durante o curso de Desenvolvimento Web Full Stack.
